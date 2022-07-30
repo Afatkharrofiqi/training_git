@@ -1,5 +1,6 @@
-"elephant" 
+"giraffe" 
 "lion" 
 "turtle" 
 "cow" 
 "sheep" 
+"cat"
